@@ -1,0 +1,9 @@
+CLAUDE.md
+.claude
+claude-code-workshop
+claude-code-workshop/*
+.idea
+.idea/*
+backup
+/backup
+.DS_Store
