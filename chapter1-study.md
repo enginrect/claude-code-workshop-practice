@@ -1,8 +1,6 @@
 # [1주차] Claude Code Deep Dive Workshop — Chapter 1 스터디 노트
 
-> - 스터디: Claude Code Deep Dive Workshop 모각코 1주차 (7/27 ~ 8/2)
 > - 자료: [whchoi98/claude-code-workshop](https://github.com/whchoi98/claude-code-workshop) — Chapter 1 (192 slides, 9 Parts + Labs 5개)
-> - 방식: 실습 중심. 각 파트 핵심만 요약하고, 랩은 내 터미널 세션 로그로 기록한다.
 
 ---
 
